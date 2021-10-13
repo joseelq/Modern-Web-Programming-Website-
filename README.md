@@ -9,6 +9,6 @@ The website provides users their local weather and time and additional functiona
     -Local time is provided using the VirtualEarth Time Zone API.
     
     Additional functionality:
-    -A snake game that keeps track of player's score
+    -A snake game that keeps track of player's score and randomly generates food around the board.
     -Autocomplete feature for major North Carolina cities. 
      
