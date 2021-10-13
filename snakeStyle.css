@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+#snakeboard {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #score {
+    text-align: center;
+    font-size: 140px;
+  }
+  .rules {
+      text-align: center;
+      font-weight: bold;
+  }
+
+.circle {
+    background-color: black;
+    border-radius: 100px;
+    height: 80px;
+    width: 80px;
+    margin: 0 60px;
+  }
+
+  .page {
+    padding: 0;
+    height: 100vh; /*add this to fill the screen*/
+    background: rgb(251, 242, 133);
+    background: radial-gradient(
+    circle,
+    rgba(251, 242, 133, 0.6334908963585435) 0%,
+    rgba(224, 196, 91, 0.8407738095238095) 35%,
+    rgba(230, 224, 113, 1) 100%
+    );
+  }
