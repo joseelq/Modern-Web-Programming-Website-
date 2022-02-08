@@ -1,5 +1,4 @@
-# COMP426FinalProject
-Final Project for COMP 426:
+# Interactive Website
 
 The website provides users their local weather and time and additional functionality for them to enjoy the current weather. 
    
